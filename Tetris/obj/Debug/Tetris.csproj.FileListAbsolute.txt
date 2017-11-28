@@ -1,0 +1,9 @@
+\\psbdfilesrvr.psu-erie.bd.psu.edu\student\DHG5054\Private\Documents\Visual Studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+\\psbdfilesrvr.psu-erie.bd.psu.edu\student\DHG5054\Private\Documents\Visual Studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+\\psbdfilesrvr.psu-erie.bd.psu.edu\student\DHG5054\Private\Documents\Visual Studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+\\psbdfilesrvr.psu-erie.bd.psu.edu\student\DHG5054\Private\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+\\psbdfilesrvr.psu-erie.bd.psu.edu\student\DHG5054\Private\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.TetrisForm.resources
+\\psbdfilesrvr.psu-erie.bd.psu.edu\student\DHG5054\Private\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+\\psbdfilesrvr.psu-erie.bd.psu.edu\student\DHG5054\Private\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+\\psbdfilesrvr.psu-erie.bd.psu.edu\student\DHG5054\Private\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+\\psbdfilesrvr.psu-erie.bd.psu.edu\student\DHG5054\Private\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
